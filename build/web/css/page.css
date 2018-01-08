@@ -1,0 +1,35 @@
+/* 
+    Created on : 4 Jan, 2017, 12:24:12 AM
+    Author     : mzv
+*/
+body{
+    background-color: lightslategray;
+    /*    background-image:url('../images/body.jpg');*/
+}
+
+
+div.container{
+    background-position: center;
+    background-repeat: repeat-y;
+    min-height: 650px;
+    background-image:url('../images/temp.jpg');
+    background-size: 100%;
+    /*    opacity: 0.75;*/
+
+}
+/*.container.input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: #3CBC8D;
+    color: white;
+}
+input[type='text'] {
+    font-size: 50px; 
+}*/
+
+.table {
+    background-color: white;
+}

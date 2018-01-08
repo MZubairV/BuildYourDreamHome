@@ -1,0 +1,26 @@
+/* 
+    Created on : 25 Oct, 2016, 5:13:50 PM
+    Author     : student
+*/
+body,div,h1,h2,h3,h4,h5,h6,a,ul,li,p{
+    margin:0px;
+}
+#menu ul{
+    list-style: none;
+}
+#menu ul li a{
+    text-decoration: none;
+    color:black;
+}
+#menu ul li{
+       float: left;
+       padding: 20px;
+}
+#menu ul li:hover{
+    background-color: #fcfcfc;
+    border-radius: 20px;
+}
+#menu ul li:hover a{
+    color: red
+}
+

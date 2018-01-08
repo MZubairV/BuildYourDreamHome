@@ -1,0 +1,22 @@
+/* 
+    Created on : 14 Jan, 2017, 10:24:36 AM
+    Author     : mzv
+*/
+#menuLeft ul{
+    list-style: none;
+}
+#menuLeft ul li a{
+    text-decoration: none;
+    color:black;
+}
+#menuLeft ul li{
+       /*float: left;*/
+       padding: 20px;
+}
+#menuLeft ul li:hover{
+/*    background-color: #fcfcfc;*/
+    border-radius: 20px;
+}
+#menuLeft ul li:hover a{
+    color: red
+}
